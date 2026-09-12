@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.majogari15.mesrecettes",
+        "sha256_cert_fingerprints": ["AF:C1:53:CE:5F:3D:C5:E2:1A:BA:14:28:FF:7A:C6:C5:31:18:23:9B:A9:D2:D7:23:BC:70:B6:7C:EC:A3:01:25"]
+      }
+    }]
