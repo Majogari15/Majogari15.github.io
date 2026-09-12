@@ -1,0 +1,1 @@
+# Majogari15.github.io
